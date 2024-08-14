@@ -1,0 +1,33 @@
+html {
+    background-color:deepskyblue;
+}
+
+.colorbody {
+    border: solid red 2px;
+    height: 20vw;
+    width: 20vw;
+    position: absolute; 
+    top:20vw;
+    left:50vw;
+    margin-top:-50px; /* this is half the height of your div*/  
+    margin-left:-100px;
+    background-color: #f08080;
+    text-align: center;
+    display: flex; 
+}
+
+.button {
+    margin-top:100px; /* this is half the height of your div*/  
+    margin-left: 70px;
+    background-color:cornflowerblue;
+    color:darkblue;
+    position: relative;
+    display: block;
+    margin : auto;
+}
+
+#title {
+    color:mediumvioletred;
+    text-align: center;
+    
+}
